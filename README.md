@@ -1,9 +1,3 @@
-## 📊 Vezi proiectul
-
-👉 [Deschide varianta interactivă (recomandat)](https://nbviewer.org/github/Damiann02/Customer-Experience-Differences-Between-To-Go-and-Sit-Down-Specialty-Coffee/blob/main/Proiect%20Cafenele.html#3-feature-engineering)
-
-👉 [Deschide notebook-ul cu cod](Proiect_Cafenele.ipynb)
-
 # ☕ Customer Experience Differences Between To-Go and Sit-Down Specialty Cafés
 
 ## 📌 About the Project
