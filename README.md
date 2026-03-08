@@ -2,7 +2,7 @@
 
 👉 [Deschide varianta interactivă (recomandat)](Proiect_Cafenele.html)
 
-👉 [Deschide notebook-ul cu cod](Proiect_Cafenele.ipynb)
+👉 [Deschide notebook-ul cu cod](Proiect_Cafenele.ipynb
 
 # ☕ Customer Experience Differences Between To-Go and Sit-Down Specialty Cafés
 
